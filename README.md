@@ -1,5 +1,6 @@
 ### Opa, Leandro aqui 👋
 
+##
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrpc75&show_icons=true&count_private=true&theme=dark)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrpc75&layout=compact&theme=dark)](https://github.com/lrpc75/github-readme-stats)
@@ -16,7 +17,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-orig
   ##
  
 <div> 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/users/leandroC%239382" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:leandrorpcastro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandro-rp-castro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
