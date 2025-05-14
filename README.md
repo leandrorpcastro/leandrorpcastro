@@ -1,30 +1,60 @@
-# Sobre Mim
+Perfeito, Leandro. Com base nas novas informações e orientações, aqui está uma versão revisada e mais madura do seu perfil em Markdown. O texto agora reflete sua atuação profissional atual, seu foco em IA e nuvem, além de um tom mais alinhado com um perfil técnico e profissional no GitHub ou LinkedIn:
 
-Olá! Meu nome é **Leandro** e atualmente sou estudante de **Sistemas de Informação** na **Universidade Federal de Lavras (UFLA)**. Tenho uma grande paixão por tecnologia e estou constantemente explorando novas formas de aplicar meus conhecimentos para resolver problemas e criar soluções inovadoras.
+---
 
-## 🎯 Áreas de Interesse
+## 👨‍💼 Sobre Mim
 
-- **Desenvolvimento Mobile Nativo com Swift:** Adoro criar aplicativos elegantes e funcionais para o ecossistema iOS, explorando frameworks como SwiftUI e UIKit.
-- **Inteligência Artificial:** Estou especialmente interessado em:
-  - **IA Generativa:** Explorar modelos para geração de texto, imagens e mais.
-  - **Visão Computacional:** Criar soluções que integram o poder da visão computacional em aplicações do mundo real.
-  - **Agentes Inteligentes:** Desenvolver agentes autônomos que podem interagir de forma inteligente com seus ambientes.
+Olá! Meu nome é **Leandro Castro**, sou profissional da área de **Inteligência Artificial e Aprendizado de Máquina**, atualmente atuando na **Compass.UOL**. Estou em fase final da graduação em **Sistemas de Informação** pela **Universidade Federal de Lavras (UFLA)**.
 
-## 🌱 O Que Estou Fazendo Agora
+Sou entusiasta de tecnologia e tenho profundo interesse por soluções baseadas em IA, computação em nuvem e automação inteligente. Busco continuamente formas de aplicar esse conhecimento para resolver problemas reais e gerar valor de forma escalável e sustentável.
 
-- **Estudo:** Aprofundando conhecimentos em **IA Generativa** e **Agentes Inteligentes** para aplicá-los em projetos práticos.
-- **Desenvolvimento Mobile:** Trabalhando em projetos para construir um portfólio mais robusto de aplicativos iOS.
+---
 
-## 🚀 Objetivos Futuros
+## 🧠 Áreas de Especialização
 
-- **Contribuir para projetos inovadores:** Quero participar de iniciativas que utilizem IA para criar impactos positivos na sociedade.
-- **Publicar aplicativos:** Desenvolver e lançar apps na App Store, algo que agregue e tenha utilidade.
-- **Expandir meu portfólio:** Trabalhar em projetos desafiadores e aprender continuamente.
+* **Inteligência Artificial & Aprendizado de Máquina**
 
-## 📫 Como Entrar em Contato
+  * Modelagem e treinamento de modelos preditivos e generativos.
+  * Aplicação de frameworks como **TensorFlow** e arquiteturas modernas como **YOLO** para visão computacional.
 
-- **Email:** [leandrorpcastro@gmail.com](mailto:leandrorpcastro@gmail.com)
-- **LinkedIn:** [Leandro Castro](https://www.linkedin.com/in/leandro-rp-castro/)
+* **Cloud Computing (AWS)**
 
-Sinta-se à vontade para entrar em contato ou conferir meus projetos! 😊
+  * Utilização de serviços AWS para deploy de modelos, automação e processamento distribuído.
+  * Certificado como **AWS Certified Cloud Practitioner**, atualmente estudando para o exame de **Solutions Architect – Associate**.
 
+---
+
+## 📚 O Que Estou Estudando Atualmente
+
+* **Arquitetura em Nuvem (AWS)**
+  Estudo aprofundado dos serviços core da AWS com foco em alta disponibilidade, escalabilidade e segurança.
+
+* **Inteligência Artificial Aplicada**
+  Pesquisa e experimentação com soluções de IA generativa e agentes inteligentes.
+
+---
+
+## 🚀 Objetivos Profissionais
+
+* **Desenvolver soluções de impacto**
+  Criar e contribuir para sistemas inteligentes que tragam benefícios concretos às empresas.
+
+* **Aprimorar expertise em nuvem e IA**
+  Obter certificações avançadas na AWS e aprofundar conhecimento técnico em frameworks de machine learning.
+
+* **Atuar em projetos desafiadores e colaborativos**
+  Trabalhar em equipes multidisciplinares que incentivem inovação e aprendizado contínuo.
+
+---
+
+## 🌐 Idiomas
+
+* **Português** – Nativo
+* **Inglês** – Avançado (leitura e conversação fluente)
+
+---
+
+## 📫 Contato
+
+* **Email:** [leandrorpcastro@gmail.com](mailto:leandrorpcastro@gmail.com)
+* **LinkedIn:** [Leandro Castro](https://www.linkedin.com/in/leandro-rp-castro)
