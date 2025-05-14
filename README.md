@@ -1,7 +1,3 @@
-Perfeito, Leandro. Com base nas novas informações e orientações, aqui está uma versão revisada e mais madura do seu perfil em Markdown. O texto agora reflete sua atuação profissional atual, seu foco em IA e nuvem, além de um tom mais alinhado com um perfil técnico e profissional no GitHub ou LinkedIn:
-
----
-
 ## 👨‍💼 Sobre Mim
 
 Olá! Meu nome é **Leandro Castro**, sou profissional da área de **Inteligência Artificial e Aprendizado de Máquina**, atualmente atuando na **Compass.UOL**. Estou em fase final da graduação em **Sistemas de Informação** pela **Universidade Federal de Lavras (UFLA)**.
