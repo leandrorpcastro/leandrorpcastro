@@ -1,4 +1,4 @@
-## 👨‍💼 Sobre Mim
+## 👤 Sobre Mim
 
 Olá! Meu nome é **Leandro Castro**, sou profissional da área de **Data Science**, atualmente atuando na **Compass.UOL**. Estou em fase final da graduação em **Sistemas de Informação** pela **Universidade Federal de Lavras (UFLA)**.
 
