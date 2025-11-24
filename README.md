@@ -1,8 +1,8 @@
 ## 👨‍💼 Sobre Mim
 
-Olá! Meu nome é **Leandro Castro**, sou profissional da área de **Inteligência Artificial e Aprendizado de Máquina**, atualmente atuando na **Compass.UOL**. Estou em fase final da graduação em **Sistemas de Informação** pela **Universidade Federal de Lavras (UFLA)**.
+Olá! Meu nome é **Leandro Castro**, sou profissional da área de **Data Science**, atualmente atuando na **Compass.UOL**. Estou em fase final da graduação em **Sistemas de Informação** pela **Universidade Federal de Lavras (UFLA)**.
 
-Sou entusiasta de tecnologia e tenho profundo interesse por soluções baseadas em IA, computação em nuvem e automação inteligente. Busco continuamente formas de aplicar esse conhecimento para resolver problemas reais e gerar valor de forma escalável e sustentável.
+Sou entusiasta de tecnologia e tenho profundo interesse por soluções baseadas em ML&IA, computação em nuvem e automação inteligente. Busco continuamente formas de aplicar esse conhecimento para resolver problemas reais e gerar valor de forma escalável e sustentável.
 
 ---
 
@@ -25,8 +25,8 @@ Sou entusiasta de tecnologia e tenho profundo interesse por soluções baseadas 
 * **Arquitetura em Nuvem (AWS)**
   Estudo aprofundado dos serviços core da AWS com foco em alta disponibilidade, escalabilidade e segurança.
 
-* **Inteligência Artificial Aplicada**
-  Pesquisa e experimentação com soluções de IA generativa e agentes inteligentes.
+* **MLops e ciclo de vida de aplicações de ML**
+  Pesquisa e experimentação com soluções de ML com ciclos de atualização e depreciação.
 
 ---
 
@@ -35,7 +35,7 @@ Sou entusiasta de tecnologia e tenho profundo interesse por soluções baseadas 
 * **Desenvolver soluções de impacto**
   Criar e contribuir para sistemas inteligentes que tragam benefícios concretos às empresas.
 
-* **Aprimorar expertise em nuvem e IA**
+* **Aprimorar expertise em nuvem e ML**
   Obter certificações avançadas na AWS e aprofundar conhecimento técnico em frameworks de machine learning.
 
 * **Atuar em projetos desafiadores e colaborativos**
